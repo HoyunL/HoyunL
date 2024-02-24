@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello! i'm hoyun 👋&fontSize=90" />
+
 ### Hello! i'm hoyun 👋
 
 I couldn't communicate with the developer, so I became a developer

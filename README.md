@@ -1,5 +1,7 @@
 ### Hello! i'm hoyun 👋
 
+I couldn't communicate with the developer, so I became a developer, 첫 직장에서 영업관리 직무로 근무하던 중, 사내 개발자와 의사소통이 안되어 힘들었습니다. 그로 인해 제가 개발자가 되었습니다.
+
 I aim for a developer who values communication, 커뮤니케이션을 중요시 하는 개발자입니다.
 
 It's a developer who puts a lot of importance on analysis and design, 분석과 설계를 매우 중요시 합니다.

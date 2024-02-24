@@ -8,6 +8,11 @@ It's a developer who puts a lot of importance on analysis and design, 분석과 
 
 I try to understand the mechanism in everything, regardless of development and non-development, 모든일에 메커니즘을 이해하려고 합니다.
 
+
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+
 <!--
 **HoyunL/HoyunL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

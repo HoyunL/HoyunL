@@ -12,7 +12,6 @@ It's a developer who puts a lot of importance on analysis and design
 I try to understand the mechanism in everything, regardless of development and non-development
 모든일에 메커니즘을 이해하려고 합니다.
 
-https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white
 
 <!--
 **HoyunL/HoyunL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

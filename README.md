@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **HoyunL/HoyunL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![spring](https://github.com/HoyunL/HoyunL/assets/107596776/48476d8e-78be-448f-8ec4-2d83cd603656)

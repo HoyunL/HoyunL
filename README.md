@@ -2,6 +2,10 @@
 
 I aim for a developer who values communication, 커뮤니케이션을 중요시 하는 개발자입니다.
 
+It's a developer who puts a lot of importance on analysis and design, 분석과 설계를 매우 중요시 합니다.
+
+I try to understand the mechanism in everything, regardless of development and non-development, 모든일에 메커니즘을 이해하려고 합니다.
+
 <!--
 **HoyunL/HoyunL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

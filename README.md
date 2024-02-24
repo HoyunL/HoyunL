@@ -40,6 +40,8 @@ I try to understand the mechanism in everything, regardless of development and n
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 
+  
+
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
   
 </div>

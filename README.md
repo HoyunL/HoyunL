@@ -1,6 +1,6 @@
 ### Hello! i'm hoyun 👋
 
-I aim for a developer who values communication
+I aim for a developer who values communication = 커뮤니케이션을 중요시하는 개발자를 지향합니다.
 
 <!--
 **HoyunL/HoyunL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

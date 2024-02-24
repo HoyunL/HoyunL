@@ -48,7 +48,7 @@ I try to understand the mechanism in everything, regardless of development and n
 </div>
 
 
-<div align=center><h1>🌱 STUDYING</h1></div>
+<div align=center><h1>🌱STUDYING</h1></div>
 
 <div align=center>
 

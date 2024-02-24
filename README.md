@@ -48,7 +48,7 @@ I try to understand the mechanism in everything, regardless of development and n
 </div>
 
 
-<div align=center><h1>🌱 Currently Studying & Interested In</h1></div>
+<div align=center><h1>🌱 Currently Studying & Interested In</h1></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
